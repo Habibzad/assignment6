@@ -1,4 +1,4 @@
-# Simple Banking App Backend with Spring Boot
+# Simple Banking App with Spring Boot
 
 This simple banking app backend is built using Spring Boot, Spring JDBC, Spring Security, and Slf4j for logging. The application manages various banking entities like `AccountHolder`, `BankAccount`, `CdOffering`, `User`, and `ContactDetails`. The structure includes abstract classes and their subclasses for different types of bank accounts, namely `CheckingAccount`, `SavingsAccount`, and `CDAccount`.
 
