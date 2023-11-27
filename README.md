@@ -82,8 +82,8 @@ The application uses **PostgreSQL** as the database management system to store a
 - **Request Payload:**
   ```json
   {
-    "userName": "Bibi",
-    "password": "zuhal",
+    "userName": "Lisa",
+    "password": "Smith",
     "active": true,
     "roles": "ROLE_USER"
   }
