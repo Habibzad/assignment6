@@ -1,4 +1,4 @@
-# Simple Banking App
+# Merit Bank
 
 The banking app is a secure and user-friendly financial platform built with Spring Boot, Spring JDBC, Spring Security, and Slf4j for logging, and backed by a PostgreSQL database. It offers a range of essential features, including account creation, money transfers between accounts, and access to various Certificate of Deposit (CD) offerings. The system includes distinct user roles: regular account holders and admin users. Regular users can create accounts, transfer money, and view their own account details, ensuring a personalized banking experience. Admin users, on the other hand, possess elevated privileges, enabling them to close accounts, create new users, and manage accounts and account holders. The application emphasizes robust security measures, employing Spring Security for authentication and authorization, safeguarding user data and transactions.
 ## Technologies Used
